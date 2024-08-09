@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lan=g"en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ordered and Unordered Lists Example</title>
+    <styl<!e>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        ul, ol {
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>My List Examples</h1>
+
+    <h2>Unordered List</h2>
+    <ul>
+        <li>Apples</li>
+        <li>Oranges</li>
+        <li>Bananas</li>
+        <li>Grapes</li>
+    </ul>
+
+    <h2>Ordered List</h2>
+    <ol>
+        <li>First step: Preheat the oven to 350°F (175°C).</li>
+        <li>Second step: Grease and flour the baking pan.</li>
+        <li>Third step: Mix the ingredients in a bowl.</li>
+        <li>Fourth step: Pour the batter into the pan and bake for 30 minutes.</li>
+    </ol>
+
+</body>
+</html>
+
